@@ -1,0 +1,30 @@
+/*
+Theme Name: TREMENDO SELLO 2015
+Theme URI: http://tremendo.cl
+Description: TREMENDO SELLO 2015 es una plantilla para Tremendo sello discrogr‡fico y de difusi—n.
+Author: Jorge Undurraga
+Version: 1.0
+License:
+*/
+
+.clearfix:after
+{
+   visibility: hidden;
+   display: block;
+   font-size: 0;
+   content: " ";
+   clear: both;
+   height: 0;
+}
+
+.clearfix
+{
+   /*overflow: auto;*/
+   zoom: 1;
+}
+
+html{}
+body
+{
+	background: url(../img/bg.png) center;
+}
